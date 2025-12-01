@@ -50,6 +50,11 @@ body {
     background: #181818;
     color: white;
 }
+.logo {
+	max-height: 100%;
+    display: flex;
+    margin-left: auto;
+}
 
 /* Page Body Flexboxes */
 .flexContainerH {
